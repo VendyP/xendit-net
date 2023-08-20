@@ -1,3 +1,5 @@
-# Xendit .NET
+# Xendit REST API Library
 
-Lorep ipsum
+This is a open-source project for integration with Xendit REST API built on top of dotnet.
+
+This repository is still inprogress :)
